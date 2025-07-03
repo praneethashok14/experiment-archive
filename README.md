@@ -13,4 +13,4 @@ I then installed Fedora KDE on the SSD with the Anaconda Installer.
 #### Step 4
 I then booted into my SSD (using the one time boot menu, again).
 #### Step 5
-I enjoyed Fedora KDE on my SSD. By the way, you can plug it into any PC and boot Fedora KDE with this tutorial document
+I enjoyed Fedora KDE on my SSD. By the way, you can plug your USB into any PC and boot Fedora KDE with this tutorial document
